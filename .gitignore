@@ -1,0 +1,25 @@
+# Python
+**/__pycache__/
+*.py[cod]
+
+# Virtual environments
+**/myenv/
+**/venv/
+**/.venv/
+
+# Jupyter
+**/.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+.idea/
+
+# Environment
+.env
+
+# Ignore large datasets
+Credit_Card_Fraud_detection/creditcard_cleaned.csv
+
+# Ignore ML models
+Credit_Card_Fraud_detection/creditcard_model.pkl
+deployment_fast_api/loan_model.pkl
