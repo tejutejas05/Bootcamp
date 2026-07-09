@@ -23,3 +23,8 @@ Credit_Card_Fraud_detection/creditcard_cleaned.csv
 # Ignore ML models
 Credit_Card_Fraud_detection/creditcard_model.pkl
 deployment_fast_api/loan_model.pkl
+
+
+ML_Flow/model.pkl
+ML_Flow/mlruns
+ML_FLow/mlflow.db
